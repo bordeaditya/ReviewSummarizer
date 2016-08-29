@@ -1,0 +1,48 @@
+Enter local url to get the movie review :http://localhost/MovieReviews/0017.html 
+Enter the number by which you want to reduce the Review [e.g: 3 means reduces to (1/3)rd]:4
+-----------------------------------------------------------------
+Naive Based Summary : Review for Evil Dead II (1987)
+-----------------------------------------------------------------
+Well, what can I say?It has very little acting, no stars, little continuity, and no logic.But it has action, horror, and black humor in massive doses.Now, THE EVIL
+DEAD II did have some plot.The corpse would look up and politely thank
+its benefactor for pulling it out of the fire, then continues to try and
+kill the living.And we will see a whole lot more, but that, too, would be telling.The actors of this piece were, I think, chosen for the terrorized looks
+they could get on their faces and for how ghoulish they could make
+themselves look.As a fan of the latter, though not of the former particularly, I will give
+this a +1 on the -4 to +4 scale.
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+Title Based Summary : Review for Evil Dead II (1987)
+-----------------------------------------------------------------
+I guess in some sense THE EVIL DEAD II is the ultimate horror
+film...sort of...I guess.It has very little acting, no stars, little continuity, and no logic.Now, THE EVIL
+DEAD II did have some plot.What THE EVIL DEAD boasted most was wit.An attacking corpse would be
+thrown into the fire.Then some living person would have a bout of remorse
+and pull it out of the fire.The corpse would look up and politely thank
+its benefactor for pulling it out of the fire, then continues to try and
+kill the living.The sequel is one strange
+semi-horror scene after another.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Text Rank Based Summary : Review for Evil Dead II (1987)
+-----------------------------------------------------------------
+I guess there is some wit in a scene like that and some
+willingness to experiment with the horror medium.Then some living person would have a bout of remorse
+and pull it out of the fire.The corpse would look up and politely thank
+its benefactor for pulling it out of the fire, then continues to try and
+kill the living.Creative visual concepts abound and the pace is
+     frenetic and that makes up for a multitude of sins.By that point we have
+already seen a beheaded corpse climb out of the ground and do a charming
+dance with its head.The script is incredibly contrived, including such touches
+as having a bridge that would have cost in the millions that leads to
+nowhere but a shack in the woods.The Internet Movie Database accepts no responsibility for the contents of the
+review and has no editorial control.Most of one of them is left the next night when the professor's daughter
+shows up with a friend and two rather strange locals.
+-----------------------------------------------------------------
+------------------Evaluation-------------------------------------
+Naive Based Summary		= 0.03 seconds
+Title Based Summary		= 5.57 seconds
+Rank  Based Summary		= 0.07 seconds
+------------------Evaluation-------------------------------------
+END
